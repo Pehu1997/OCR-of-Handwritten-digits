@@ -1,2 +1,2 @@
-# OCR-of-Handwritten-digits
-OpenCV
+# OCR-of-Handwritten-digits OpenCV
+OCR which stands for Optical Character Recognition is a computer vision (CV) technique used to identify the different types of handwritten digits that are used in common mathematics. To perform OCR in OpenCV we will use the KNN algorithm which detects the nearest k neighbors of a particular data point and then classifies that data point based on the class type detected for n neighbors.
